@@ -1,21 +1,34 @@
-# travel
+# travel App
 
-> A Vue.js project
+> A Vue.js travel web app
 
-## Build Setup
+## 技术栈
+
+> vue2 + vuex + vue-router + aiosx + webpack + es6/7
+
+## 项目运行
 
 ``` bash
-# install dependencies
-npm install
+# git clone
+git clone https://github.com/ZXDJoey/Travel.git
 
-# serve with hot reload at localhost:8080
+# cd project
+cd Travel
+
+# project init
+npm init
+
+# project run(localhost:8080)
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 效果演示
+
+[https://zxdjoey.github.io/Travel/dist/#/]  (请用chrome手机模式预览）
+
+## 部分截图
+
+#### PS：你的star是我学习的动力
+
+
+
