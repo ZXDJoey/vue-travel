@@ -1,7 +1,7 @@
 # vue-travel
 > Vue2.5 开发移动端旅游网站项目实战
 
-欢迎 `Star` 和 `Fork`。
+欢迎 `Star` 和 `Fork`
 
 ## 项目涉及到技术栈：
 - Vue：Vue、Vue-router、Vuex、Vue-cli
